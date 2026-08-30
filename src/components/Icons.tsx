@@ -39,6 +39,23 @@ export function PlayIcon({ size = 18, className }: IconProps) {
   );
 }
 
+export function InfoIcon({ size = 18, className }: IconProps) {
+  return (
+    <svg {...baseProps(size, className)}>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 10.5V17M12 7.25h.01" />
+    </svg>
+  );
+}
+
+export function CloseIcon({ size = 20, className }: IconProps) {
+  return (
+    <svg {...baseProps(size, className)}>
+      <path d="m6.5 6.5 11 11M17.5 6.5l-11 11" />
+    </svg>
+  );
+}
+
 export function LockIcon({ size = 16, className }: IconProps) {
   return (
     <svg {...baseProps(size, className)}>
@@ -74,4 +91,3 @@ export function PersonMark({ size = 22, className }: IconProps) {
     </svg>
   );
 }
-

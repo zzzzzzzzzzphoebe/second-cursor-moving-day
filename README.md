@@ -2,6 +2,8 @@
 
 An interactive WebMCP prototype about a simple but profound shift in how we use the web: one cursor is yours; the second belongs to an AI agent that can guide you, help you, or work alongside you.
 
+**One workspace. Two cursors.** Second Cursor makes agent collaboration legible without exposing private reasoning. The interface discloses what the Agent is targeting, what it intends to do, what changed, when it is waiting, and when control returns to the human.
+
 In this moving-day scenario:
 
 - The human owns taste, personal preferences, and final decisions.
@@ -60,3 +62,7 @@ Suggested agent prompt:
 ## Hosted demo
 
 [Open Second Cursor: Moving Day on ChatGPT Sites](https://second-cursor-moving-day.zzzzzzzzzz-phoebe.chatgpt.site)
+
+## License
+
+[MIT](LICENSE)

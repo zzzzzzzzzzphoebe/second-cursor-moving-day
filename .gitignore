@@ -6,3 +6,5 @@ dist/
 .DS_Store
 *.local
 .devpost-hackathon-state.json
+.playwright-cli/
+output/playwright/

@@ -1,6 +1,7 @@
-import { PlayIcon, ResetIcon, UndoIcon } from "./Icons";
+import { InfoIcon, PlayIcon, ResetIcon, UndoIcon } from "./Icons";
 
-export function Header({ onDemo, onReset, onUndo, canUndo, demoRunning, webMcpReady }: {
+export function Header({ onStory, onDemo, onReset, onUndo, canUndo, demoRunning, webMcpReady }: {
+  onStory: () => void;
   onDemo: () => void;
   onReset: () => void;
   onUndo: () => void;
@@ -17,6 +18,9 @@ export function Header({ onDemo, onReset, onUndo, canUndo, demoRunning, webMcpRe
         <p>You shape the life. I organize the space.</p>
       </div>
       <nav className="header-actions" aria-label="Canvas controls">
+        <button type="button" className="story-button" onClick={onStory}>
+          <InfoIcon />Why two cursors?
+        </button>
         <button type="button" className="demo-button" onClick={onDemo} disabled={demoRunning}>
           <PlayIcon />{demoRunning ? "Demo running" : "Play demo"}
         </button>

@@ -7,6 +7,7 @@ import { FurnitureRail } from "./components/FurnitureRail";
 import { Header } from "./components/Header";
 import { RoomCanvas } from "./components/RoomCanvas";
 import { StatusRail } from "./components/StatusRail";
+import { StoryPanel } from "./components/StoryPanel";
 import type { AgentMode, ChoiceOption, Decision, FurnitureItem, FurnitureKind, HistoryEntry, Point } from "./types";
 import { useWebMcp, type WebMcpActions } from "./useWebMcp";
 
@@ -40,6 +41,7 @@ export default function App() {
   const [agentStatus, setAgentStatus] = useState("Agent is organizing the workspace");
   const [notice, setNotice] = useState<string | null>(null);
   const [demoRunning, setDemoRunning] = useState(false);
+  const [storyOpen, setStoryOpen] = useState(false);
 
   const itemsRef = useRef(items);
   itemsRef.current = items;
@@ -352,6 +354,7 @@ export default function App() {
   return (
     <div className="app-shell">
       <Header
+        onStory={() => setStoryOpen(true)}
         onDemo={runDemo}
         onReset={() => reset(true)}
         onUndo={undo}
@@ -386,6 +389,7 @@ export default function App() {
       </div>
       <StatusRail humanText={humanStatus} agentText={agentStatus} agentMode={agent.mode} />
       {notice && <div className="notice" role="status">{notice}</div>}
+      {storyOpen && <StoryPanel onClose={() => setStoryOpen(false)} />}
     </div>
   );
 }
