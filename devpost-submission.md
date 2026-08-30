@@ -85,7 +85,7 @@ Verified on August 30, 2026:
 - Automated tests: 3 passed.
 - Production build: passed.
 - Public site: HTTP 200.
-- Public repository `main`: `1e69669f7a3220645a75822849ef8a2d7e5e4c87`.
+- Application and video release commit: `1e69669f7a3220645a75822849ef8a2d7e5e4c87`.
 
 ## Public Demo Link
 
