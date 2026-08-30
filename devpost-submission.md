@@ -2,17 +2,17 @@
 
 ## One-line Summary
 
-One workspace, two cursors: a human and an AI agent arrange a room together while the interface makes the agent's intent, actions, constraints, and handoffs visible.
+AI has entered the web. Second Cursor gives it a visible hand—so people can see, interrupt, guide, and collaborate with an agent on the same live surface.
 
 ## Problem
 
-Most websites still assume a single operator and a single cursor. When an AI agent helps, its work is usually hidden behind a chat box: the user sees a request and, later, a result, but not what the agent is targeting, what it is allowed to change, why it is waiting, or when control has returned to the human.
+The web was designed around one cursor: yours. AI agents change that assumption. They introduce a second actor that can inspect, decide, and operate, yet most interfaces still hide that work behind a chat box. The user sees a request and, later, a result—but not what the agent is targeting, what it is allowed to change, why it is waiting, or when control has returned to the human.
 
 That interaction model becomes especially fragile in shared, visual work. An agent may be able to act, but the user still needs to understand and govern those actions in real time.
 
 ## Solution
 
-Second Cursor proposes a new interaction model for the agentic web. The human keeps the familiar white cursor. The agent receives a visible blue cursor on the same live surface.
+Second Cursor proposes a new interaction model for the agentic web—and a first step toward giving AI a visible hand. The human keeps the familiar white cursor. The agent receives a visible blue cursor on the same live surface. Instead of vanishing into background automation, the agent becomes a collaborator people can watch, understand, interrupt, and direct.
 
 The Moving Day scenario makes the idea concrete: a human and an agent arrange furniture together. The agent can inspect the room, point out a problem, move or rotate unlocked furniture, ask the human to choose between equally valid options, and finish with a visible summary. Every tool call is reflected in the interface.
 
@@ -20,7 +20,7 @@ The second cursor is not a visualization of private chain-of-thought. It is acti
 
 ## Why This Matters
 
-WebMCP makes web pages operable by many compatible agents, not just by one proprietary assistant integration. Second Cursor explores what the interface should become when that happens.
+WebMCP makes web pages operable by many compatible agents, not just by one proprietary assistant integration. That changes more than automation: it changes the basic grammar of the web. A page is no longer only a place a person clicks; it can become a shared world where humans and agents act together. Second Cursor explores what the interface should become when that shift reaches everyone.
 
 Instead of treating the agent as an invisible remote operator, the product gives people a shared workspace where collaboration is understandable and interruptible. The human owns taste and final decisions. The agent handles structured inspection and delegated work. Both can act on the same task without collapsing into a chat-only workflow.
 
