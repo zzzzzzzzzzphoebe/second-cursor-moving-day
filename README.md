@@ -57,4 +57,6 @@ Suggested agent prompt:
 - [Mobile implementation](design/implementation-mobile.png)
 - [Fidelity ledger](design/fidelity-ledger.md)
 
-The project is an interactive competition prototype. The public demo URL will be added after the Sites deployment is verified.
+## Hosted demo
+
+[Open Second Cursor: Moving Day on ChatGPT Sites](https://second-cursor-moving-day.zzzzzzzzzz-phoebe.chatgpt.site)
