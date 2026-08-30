@@ -1,0 +1,67 @@
+1
+00:00:01,000 --> 00:00:04,700
+Most websites still assume one cursor: yours.
+
+2
+00:00:04,700 --> 00:00:08,445
+When AI helps, its work is often hidden behind a chat box.
+
+3
+00:00:08,795 --> 00:00:12,500
+Second Cursor proposes a new interaction model.
+
+4
+00:00:12,500 --> 00:00:16,087
+The human and the agent share the same live surface,
+at the same time.
+
+5
+00:00:16,437 --> 00:00:19,900
+In Moving Day, the white cursor expresses taste.
+
+6
+00:00:19,900 --> 00:00:25,902
+The blue cursor makes the Agent's intent visible:
+what it targets, why it moves, and when it waits.
+
+7
+00:00:26,252 --> 00:00:29,600
+This is not chain of thought.
+
+8
+00:00:29,600 --> 00:00:36,257
+It is actionable disclosure: intent, progress, changes,
+constraints, and when control returns to the human.
+
+9
+00:00:36,607 --> 00:00:42,200
+The Agent can inspect the room, point out a problem,
+and move or rotate unlocked furniture.
+
+10
+00:00:42,200 --> 00:00:47,461
+Every action happens through six structured WebMCP tools
+connected to the live page.
+
+11
+00:00:47,811 --> 00:00:51,100
+But authority stays human.
+Lock an object and the Agent must preserve it.
+
+12
+00:00:51,100 --> 00:00:54,300
+Grab an item and the Agent yields.
+
+13
+00:00:54,300 --> 00:00:58,843
+When two choices are equally valid,
+the Agent asks instead of guessing.
+
+14
+00:00:59,193 --> 00:01:04,209
+Second Cursor turns AI from an invisible operator
+into an understandable collaborator.
+
+15
+00:01:04,559 --> 00:01:06,790
+One workspace. Two cursors.

@@ -8,3 +8,7 @@ dist/
 .devpost-hackathon-state.json
 .playwright-cli/
 output/playwright/
+video/audio/
+video/build/
+video/qa/
+video/raw/

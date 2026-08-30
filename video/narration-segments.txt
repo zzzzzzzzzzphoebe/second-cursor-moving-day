@@ -1,0 +1,8 @@
+Most websites still assume one cursor: yours. When AI helps, its work is often hidden behind a chat box.
+Second Cursor proposes a new interaction model. The human and the agent share the same live surface, at the same time.
+In Moving Day, the white cursor expresses taste. The blue cursor makes the Agent's intent visible: what it targets, why it moves, and when it waits.
+This is not chain of thought. It is actionable disclosure: intent, progress, changes, constraints, and the moment control returns to the human.
+The Agent can inspect the room, point out a problem, and move or rotate unlocked furniture. Every action happens through six structured Web M C P tools connected to the live page.
+But authority stays human. Lock an object and the Agent must preserve it. Grab an item and the Agent yields. When two choices are equally valid, the Agent asks instead of guessing.
+Second Cursor turns AI from an invisible operator into an understandable collaborator.
+One workspace. Two cursors.
