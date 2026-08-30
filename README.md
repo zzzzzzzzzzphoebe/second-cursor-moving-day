@@ -63,6 +63,10 @@ Suggested agent prompt:
 
 [Open Second Cursor: Moving Day on ChatGPT Sites](https://second-cursor-moving-day.zzzzzzzzzz-phoebe.chatgpt.site)
 
+## Demo video
+
+[Watch the 68-second English demo on YouTube](https://youtu.be/uYb1tT41l8g)
+
 ## License
 
 [MIT](LICENSE)

@@ -2,6 +2,8 @@
 
 The final English demo is [`second-cursor-moving-day-demo.mp4`](second-cursor-moving-day-demo.mp4): 68.3 seconds, 1920×1080, H.264 video, AAC audio, English voice-over, and burned-in English captions.
 
+[Watch the public YouTube video](https://youtu.be/uYb1tT41l8g).
+
 Supporting files:
 
 - `narration.md` — final spoken script
