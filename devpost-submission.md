@@ -1,5 +1,7 @@
 # Second Cursor: Moving Day
 
+> Submission packet used to prepare the published Devpost entry on August 30, 2026. For the final status, verification record, and artifact index, see [Project Record](docs/PROJECT_RECORD.md).
+
 ## One-line Summary
 
 AI has entered the web. Second Cursor gives it a visible hand—so people can see, interrupt, guide, and collaborate with an agent on the same live surface.
@@ -129,9 +131,9 @@ Public YouTube video, 68.3 seconds, 1920 x 1080, English voice-over, and burned-
 - The agent cursor communicates actionable intent and state, not private model reasoning.
 - The demo fallback is scripted; it exists for reviewers whose browser does not expose WebMCP.
 
-## TODO Official Form Fields
+## Official Form Field Reference
 
-Proposed exact answers for the live Devpost form:
+Answers prepared for the live Devpost form:
 
 - **Submitter Type (28249):** `Individual`
 - **Country of residence of yourself and team members if applicable (28250):** `Taiwan`

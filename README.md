@@ -4,6 +4,8 @@ An interactive WebMCP prototype about a simple but profound shift in how we use 
 
 **One workspace. Two cursors.** Second Cursor makes agent collaboration legible without exposing private reasoning. The interface discloses what the Agent is targeting, what it intends to do, what changed, when it is waiting, and when control returns to the human.
 
+**Challenge status:** completed and published for The WebMCP Challenge. [View the Devpost submission](https://devpost.com/software/second-cursor-moving-day) or read the [project completion record](docs/PROJECT_RECORD.md).
+
 In this moving-day scenario:
 
 - The human owns taste, personal preferences, and final decisions.
@@ -66,6 +68,10 @@ Suggested agent prompt:
 ## Demo video
 
 [Watch the 68-second English demo on YouTube](https://youtu.be/uYb1tT41l8g)
+
+## Project record
+
+[Read the complete project record](docs/PROJECT_RECORD.md) for the product thesis, architecture, verification evidence, Devpost submission facts, decisions, limitations, and future directions.
 
 ## License
 
